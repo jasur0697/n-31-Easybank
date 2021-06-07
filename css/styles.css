@@ -156,10 +156,11 @@ img {
 
 
 
+
 .hero-img {
   position: absolute;
   top: -50px;
-  right: 80;
+  right: -80;
 }
 
 
